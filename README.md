@@ -3,7 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoss-antonio)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://antoniosantana.marcos28@gmail.com)
 
+<div style="display: flex; align-itens: center;">
+  
 ![marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosantoniosantana&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosantoniosantana)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ## Tecnologias utilizadas
 
